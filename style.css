@@ -1,0 +1,199 @@
+.container {
+    height: auto;
+    width:20vw;
+    background-color: rgb(170, 255, 255);
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 590px;
+    border:2px solid white;
+   
+}
+
+.div01{
+    display: flex;
+    flex-direction: row;
+    border:1px solid black;
+    width: 200px;
+    height: 200px;
+   margin-left: 55px;
+   background-color: aliceblue;
+   flex-grow: 1;
+
+}
+.div1{
+    display: flex;
+    flex-direction: row;
+    border:1px solid black;
+    width: 200px;
+    height: 200px;
+   margin-left: 55px;
+   background-color: aliceblue;
+   flex-grow: 1;
+   
+       
+}
+.div2{ 
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    margin-left: 55px;
+    
+    
+ 
+}
+
+.ball1{
+    background-color: rgb(235, 143, 251);
+    height: 26px;
+    width: 34px;
+    border-radius: 100%;
+}
+.ball2{
+    background-color: rgb(184, 136, 248);
+   margin-left:20px;
+    height: 40px;
+    width: 60px;
+    border-radius: 100%;
+
+}
+.ball3{
+    background-color: rgb(38, 157, 236);
+    margin-left: 20px;
+    height: 45px;
+    width: 68px;
+    border-radius: 100%;
+
+}
+.ball4{
+    background-color: rgb(26, 237, 36);
+    margin-left: 20px;
+    height: 50px;
+    width: 80px;
+    border-radius: 100%;
+
+}
+.bal1 {
+    
+        background-color: rgb(245, 172, 78);
+        height: 48px;
+        width: 48px;
+        border-radius: 100%;
+        margin-top: 50px;
+    
+}
+.bal2{
+    background-color: rgb(177, 253, 130);
+    height: 48px;
+    width: 48px;
+    border-radius: 100%;
+}
+*{
+    background-color: black;
+}
+.ball5{
+    background-color: rgb(64, 253, 165);
+    height: 40px;
+    width: 75px;
+    border-radius: 100%;
+}
+.ball6{
+    background-color: rgb(73, 176, 245);
+   
+    height: 35px;
+    width: 60px;
+    border-radius: 100%;
+
+}
+.ball7{
+    background-color: rgb(245, 134, 251);
+    height: 30px;
+    width: 50px;
+    
+    border-radius: 100%;
+
+}
+.ball8{
+    background-color: rgb(244, 153, 100);
+    height: 20px;
+    width: 35px;
+    border-radius: 100%;
+    margin-right: 70px;
+
+}
+.bal9 {
+    
+        
+        background-color: rgb(177, 253, 130);
+        height: 48px;
+        width: 48px;
+        border-radius: 100%;
+        margin-top: 50px;
+    
+}
+.bal11{
+    background-color: rgb(245, 172, 78);
+    height: 48px;
+    width: 48px;
+    border-radius: 100%;
+    margin-top:20px;
+}
+.ball12{
+    background-color: rgb(64, 253, 165);
+    height: 40px;
+    width: 75px;
+    border-radius: 100%;
+    margin-top: 160px;
+    margin-left: 46px;
+
+}
+.ball13{
+    background-color: rgb(73, 176, 245);
+    margin-top: 164px;
+
+    height: 35px;
+    width: 60px;
+    border-radius: 100%;
+
+}
+.ball14{
+    background-color: rgb(245, 134, 251);
+    height: 30px;
+    width: 50px;
+    margin-top: 170px;
+    border-radius: 100%;
+
+}
+.ball15{
+    background-color: rgb(244, 153, 100);
+    height: 20px;
+    width: 35px;
+    border-radius: 100%;
+    margin-right: 70px;
+    margin-top: 180px;
+
+
+}
+.bal19 {
+    
+        
+        background-color: rgb(177, 253, 130);
+        height: 48px;
+        width: 48px;
+        border-radius: 100%;
+        margin-left: 70px;
+    
+}
+.bal18{
+    background-color: rgb(245, 172, 78);
+    height: 48px;
+    width: 48px;
+    border-radius: 100%;
+    margin-top: 104px;
+    margin-left: 70px;
+}
